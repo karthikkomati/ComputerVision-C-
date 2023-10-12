@@ -1,0 +1,50 @@
+﻿  csv_util.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\Downloads\csv_util\csv_util.cpp': No such file or directory
+  Main.cpp
+C:\Users\karth\source\repos\Project2\Project2\Main.cpp(100,30): warning C4305: 'initializing': truncation from 'int' to 'float'
+C:\Users\karth\source\repos\Project2\Project2\Main.cpp(132,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\karth\source\repos\Project2\Project2\Main.cpp(205,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\karth\source\repos\Project2\Project2\Main.cpp(206,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\karth\source\repos\Project2\Project2\Main.cpp(229,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\karth\source\repos\Project2\Project2\Main.cpp(230,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\karth\source\repos\Project2\Project2\Main.cpp(326,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\karth\source\repos\Project2\Project2\Main.cpp(327,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\karth\source\repos\Project2\Project2\Main.cpp(350,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\karth\source\repos\Project2\Project2\Main.cpp(351,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\karth\source\repos\Project2\Project2\Main.cpp(383,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\karth\source\repos\Project2\Project2\Main.cpp(384,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\karth\source\repos\Project2\Project2\Main.cpp(405,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\karth\source\repos\Project2\Project2\Main.cpp(406,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\karth\source\repos\Project2\Project2\Main.cpp(535,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\karth\source\repos\Project2\Project2\Main.cpp(536,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\karth\source\repos\Project2\Project2\Main.cpp(579,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\karth\source\repos\Project2\Project2\Main.cpp(580,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\karth\source\repos\Project2\Project2\Main.cpp(641,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\karth\source\repos\Project2\Project2\Main.cpp(718,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\karth\source\repos\Project2\Project2\Main.cpp(719,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\karth\source\repos\Project2\Project2\Main.cpp(747,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\karth\source\repos\Project2\Project2\Main.cpp(748,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\karth\source\repos\Project2\Project2\Main.cpp(763,26): warning C4244: 'initializing': conversion from '_Tp' to 'float', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\karth\source\repos\Project2\Project2\Main.cpp(765,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\utility(190,16): warning C4244: 'initializing': conversion from 'int' to '_Ty1', possible loss of data
+          with
+          [
+              _Ty1=const float
+          ]
+C:\Users\karth\source\repos\Project2\Project2\Main.cpp(138): message : see reference to function template instantiation 'std::pair<const float,cv::Mat>::pair<int&,cv::Mat&,0>(_Other1,_Other2) noexcept(false)' being compiled
+          with
+          [
+              _Other1=int &,
+              _Other2=cv::Mat &
+          ]
+C:\Users\karth\source\repos\Project2\Project2\Main.cpp(138): message : see reference to function template instantiation 'std::pair<const float,cv::Mat>::pair<int&,cv::Mat&,0>(_Other1,_Other2) noexcept(false)' being compiled
+          with
+          [
+              _Other1=int &,
+              _Other2=cv::Mat &
+          ]
+  Generating Code...

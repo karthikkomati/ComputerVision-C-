@@ -1,0 +1,16 @@
+﻿  Project4Part2.cpp
+C:\Users\karth\source\repos\Project4\Project4Part2\Project4Part2.cpp(43,28): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\karth\source\repos\Project4\Project4Part2\Project4Part2.cpp(43,25): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\karth\source\repos\Project4\Project4Part2\Project4Part2.cpp(58,40): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\karth\source\repos\Project4\Project4Part2\Project4Part2.cpp(58,40): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\karth\source\repos\Project4\Project4Part2\Project4Part2.cpp(58,62): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\karth\source\repos\Project4\Project4Part2\Project4Part2.cpp(58,62): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Project4Part2.vcxproj -> C:\Users\karth\source\repos\Project4\x64\Debug\Project4Part2.exe
